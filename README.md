@@ -59,7 +59,7 @@ The options are to be passed in an object. None are mandatory.
 <tr><th>OPTION</th><th>TYPE</th><th>DEFAULT</th><th>REMARK</th></tr>
 <tr><td>atSign</td><td>string</td><td>" [at] "</td><td>String that will be replaced by '@'.</td></tr>
 <tr><td>dotSign</td><td>string</td><td>" [dot] "</td><td>String that will be replaced by '.'.</td></tr>
-<tr><td>substitute</td><td>function(string)</td><td></td><td>The substitute html can be customized by passing in a function. It receives the deobfuscated address as a paramter and should return the substitute html.</td></tr>
+<tr><td>substitute</td><td>function(string)</td><td></td><td>The substitute html can be customized by passing in a function. It receives the deobfuscated address as a parameter and should return the substitute html.</td></tr>
 </table>
                              
 About Emailifier

@@ -1,12 +1,12 @@
 Mailifier – Hide email addresses from spambots
 ==============================================
 
-Mailifier allows you to display emailaddresses in webpages whilst preventing spambots from harvesting them.
+Mailifier is a jQuery plugin that allows you to display emailaddresses in webpages whilst preventing spambots from harvesting them.
 
 Features
 --------
 
-* Malifier is fast and compact.
+* Mailifier is fast and compact.
 * Being a jQuery plugin it is easily implemented.
 * It allows for easy extending and customization.
 
